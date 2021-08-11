@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**MateusVrs/MateusVrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+### Hello World!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height='170' src="https://github-readme-stats.vercel.app/api?username=MateusVrs&theme=dark&count_private=true&show_icons=true">
+  <img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVrs&layout=default&theme=dark">
+<div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div>
+ 
+ ##
+  
+<div> 
+  <a href="https://instagram.com/mateusvrs"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href = "mailto:matucavieira@gmail.com"> <img height='30' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mateusvrs/"> <img height='30'src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</div>
+  
+<div>
+<br>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=usfeb7knz9sp96r7uszwgkeiw&redirect=true"><p align='center'><img src='https://spotify-github-profile.vercel.app/api/view?uid=usfeb7knz9sp96r7uszwgkeiw&cover_image=true&theme=default'><p></a>
+<div>
+  
+##
