@@ -1,16 +1,21 @@
 
 ##
 
-### Hello World!
+<div>
+<h1>Olá, sou o Mateus</h1>
+<p>Comecei a programar em 2018 com os cursos de lógica da Alura. Após dois anos estudando Arduino eu mudei meu foco e hoje em dia estou aprendendo Algoritmos e Estrutura de dados com Python e C. Além disso, iniciei meus aprendedizados em desenvolvimento Web com HTML e CSS. Por fim, tenho como objetivo final trabalhar, futuramente, com Back-End utilizando meus conhecimentos.</p>
+</div>
 
-<div>
-  <img height='170' src="https://github-readme-stats.vercel.app/api?username=MateusVrs&theme=dark&count_private=true&show_icons=true">
-  <img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVrs&layout=default&theme=dark&count_private=true">
-<div>
+<div align="center">
+  <img height='165' src="https://github-readme-stats.vercel.app/api?username=MateusVrs&theme=dark&count_private=true&show_icons=true">
+  <img height='165' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVrs&layout=compact&theme=dark&count_private=true">
+</div>
   
-<div style="display: inline_block"><br>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<div style="display: inline_block" align="center"><br>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> -
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> -
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
  
  ##
