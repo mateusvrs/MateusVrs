@@ -3,7 +3,7 @@
 
 <div>
 <h1>Olá, sou o Mateus</h1>
-<p>Comecei a programar em 2018 com os cursos de lógica da Alura. Após dois anos estudando Arduino eu mudei meu foco e hoje em dia estou aprendendo Algoritmos e Estrutura de dados com Python e C. Além disso, iniciei meus aprendedizados em desenvolvimento Web com HTML e CSS. Por fim, tenho como objetivo final trabalhar, futuramente, com Back-End utilizando meus conhecimentos.</p>
+<p>Comecei a programar em 2018 com os cursos de lógica da Alura. Após dois anos estudando Arduino eu mudei meu foco e hoje em dia estou aprendendo Algoritmos e Estrutura de dados com Python e C. Além disso, iniciei meus aprendedizados em desenvolvimento Web com HTML, CSS e JS. Por fim, tenho como objetivo final trabalhar, futuramente, com Back-End.</p>
 </div>
 
 <div align="center">
