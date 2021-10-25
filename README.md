@@ -10,17 +10,22 @@
   <img height='165' src="https://github-readme-stats.vercel.app/api?username=MateusVrs&theme=dark&count_private=true&show_icons=true">
   <img height='165' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVrs&layout=compact&theme=dark&count_private=true">
 </div>
+
+##
   
-<div style="display: inline_block" align="center"><br>
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> -
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> -
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> -
-  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+### Linguagens e Tecnologias 💻:
+
+<div>
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
  
- ##
+##
   
-### Redes Sociais:
+### Redes Sociais 📎:
   
 <div> 
   <a href="https://instagram.com/mateusvrs"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
@@ -34,7 +39,8 @@
   
 <div>
   <p>◐ Learn C Programming - Packt</p>
-  <p>◐ Data Structures and Algorithms in Python - Wiley</p>
+  <p>◐ HTML5 e CSS3: guia prático e visual - Alta Books</p>
+  <p>○ Data Structures and Algorithms in Python - Wiley</p>
   <p>○ Clean Code - Prentice Hall</p>
   <p align='right'>◍ Já li</p>
   <p align='right'>◐ Estou lendo</p>
