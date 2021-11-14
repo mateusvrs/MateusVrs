@@ -2,8 +2,8 @@
 ##
 
 <div>
-<h1>Olá, sou o Mateus</h1>
-<p>Comecei a programar em 2018 com os cursos de lógica da Alura. Após dois anos estudando Arduino eu mudei meu foco e hoje em dia estou aprendendo Algoritmos e Estrutura de dados com Python e C. Além disso, iniciei meus aprendedizados em desenvolvimento Web com HTML, CSS e JS. Por fim, tenho como objetivo final trabalhar, futuramente, com Back-End.</p>
+<h1>Olá, meu nome é Mateus</h1>
+<p>Sou programador Júnior e tenho como objetivo trabalhar, futuramente, com Back-end. Já fiz projetos com Arduino, Python, C, Javascript, MySQL, entre outras tecnologias. Por isso, estou aberto para aprender o que vier pela frente.</p>
 </div>
 
 <div align="center">
