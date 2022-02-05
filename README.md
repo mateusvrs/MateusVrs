@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img height='165' src="https://github-readme-stats.vercel.app/api?username=MateusVrs&theme=dark&count_private=true&show_icons=true">
+  <img height='165' src="https://github-readme-stats.vercel.app/api?username=mateusvrs&theme=dark&include_all_commits=true&count_private=true&show_icons=true">
   <img height='165' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusVrs&layout=compact&theme=dark&count_private=true">
 </div>
 
@@ -40,9 +40,9 @@
   
 <div>
   <p>◐ Learn C Programming - Packt</p>
-  <p>◐ HTML5 e CSS3: guia prático e visual - Alta Books</p>
   <p>○ Data Structures and Algorithms in Python - Wiley</p>
   <p>○ Clean Code - Prentice Hall</p>
+  <p>◍ HTML5 e CSS3: guia prático e visual - Alta Books</p>
   <p align='right'>◍ Já li</p>
   <p align='right'>◐ Estou lendo</p>
   <p align='right'>○ Vou ler</p>
