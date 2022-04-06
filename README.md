@@ -2,8 +2,8 @@
 ##
 
 <div>
-<h1>Olá, meu nome é Mateus</h1>
-<p>Sou programador Júnior e tenho como objetivo trabalhar, futuramente, com Back-end. Já fiz projetos com Arduino, Python, C, Javascript, MySQL, entre outras tecnologias. Por isso, estou aberto para aprender o que vier pela frente.</p>
+<h1>Hello, my name is Mateus</h1>
+<p>I am currently an evolving Front-End developer interested in different areas of software development. That's why I like to face challenges to improve my hard and soft skills. I'm currently focusing on learning more about Front-End with ReactJs. So I'm doing some projects and challenges like PenNote, Ballerini Devs and BalleAir that you can find here. Also, I've started my studies in Back-End with Django and Django Rest Framework.</p>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 
 ##
   
-### Linguagens e Tecnologias 💻:
+### Languages and Technologies 💻:
 
 <div>
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -28,7 +28,7 @@
  
 ##
   
-### Redes Sociais 📎:
+### Social networks 📎:
   
 <div> 
   <a href="https://instagram.com/mateusvrs"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
@@ -38,16 +38,16 @@
   
 ##
   
-### Minhas leituras 📚:
+### My readings 📚:
   
 <div>
-  <p>◐ Learn C Programming - Packt</p>
-  <p>○ Data Structures and Algorithms in Python - Wiley</p>
-  <p>○ Clean Code - Prentice Hall</p>
-  <p>◍ HTML5 e CSS3: guia prático e visual - Alta Books</p>
-  <p align='right'>◍ Já li</p>
-  <p align='right'>◐ Estou lendo</p>
-  <p align='right'>○ Vou ler</p>
+  <p>🟡 Learn C Programming - Packt</p>
+  <p>⚪ Data Structures and Algorithms in Python - Wiley</p>
+  <p>⚪ Clean Code - Prentice Hall</p>
+  <p>🟢 HTML5 e CSS3: guia prático e visual - Alta Books</p>
+  <p align='right'>🟢 I've already read it</p>
+  <p align='right'>🟡 I'm reading</p>
+  <p align='right'>⚪ I will read</p>
 </div>
   
 ##
