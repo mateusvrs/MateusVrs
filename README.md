@@ -32,7 +32,7 @@
   
 <div> 
   <a href="https://instagram.com/mateusvrs"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href = "mailto:matucavieira@gmail.com"> <img height='30' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:mateusvrs.dev@gmail.com"> <img height='30' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mateusvrs/"> <img height='30'src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
   
@@ -41,9 +41,9 @@
 ### My readings 📚:
   
 <div>
-  <p>🟡 Learn C Programming - Packt</p>
   <p>⚪ Data Structures and Algorithms in Python - Wiley</p>
   <p>⚪ Clean Code - Prentice Hall</p>
+  <p>🟢 Learn C Programming - Packt</p>
   <p>🟢 HTML5 e CSS3: guia prático e visual - Alta Books</p>
   <p align='right'>🟢 I've already read it</p>
   <p align='right'>🟡 I'm reading</p>
