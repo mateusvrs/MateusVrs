@@ -16,16 +16,27 @@
 ### Languages and Technologies 💻:
 
 <div>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 </div>
- 
+
+### Services ⚙:
+
+<div>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+</div>
+
 ##
   
 ### Social networks 📎:
@@ -41,13 +52,28 @@
 ### My readings 📚:
   
 <div>
-  <p>⚪ Data Structures and Algorithms in Python - Wiley</p>
-  <p>⚪ Clean Code - Prentice Hall</p>
-  <p>🟢 Learn C Programming - Packt</p>
-  <p>🟢 HTML5 e CSS3: guia prático e visual - Alta Books</p>
-  <p align='right'>🟢 I've already read it</p>
-  <p align='right'>🟡 I'm reading</p>
-  <p align='right'>⚪ I will read</p>
+  <details>
+    <summary>I'm reading 🟡</summary>
+    <ul>
+      <li>Cracking the Coding Interview - McDowell</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary>I will read ⚪</summary>
+      <ul>
+        <li>Data Structures and Algorithms in Python - Wiley</li>
+        <li>Clean Code - Prentice Hall</li>
+      </ul>
+  </details>
+  
+  <details>
+    <summary>I've already read it 🟢</summary>
+      <ul>
+        <li>Learn C Programming - Packt</li>
+        <li>HTML5 e CSS3: guia prático e visual - Alta Books</li>
+      </ul>
+  </details>
 </div>
   
 ##
