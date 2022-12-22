@@ -2,8 +2,8 @@
 ##
 
 <div>
-<h1>Hello, my name is Mateus</h1>
-<p>I am currently an evolving Front-End developer interested in different areas of software development. That's why I like to face challenges to improve my hard and soft skills. I'm currently focusing on learning more about Front-End with ReactJs. So I'm doing some projects and challenges like PenNote, Ballerini Devs and BalleAir that you can find here. Also, I've started my studies in Back-End with Django and Django Rest Framework.</p>
+<h1>Hi, I'm Mateus</h1>
+<p>I am an evolving Software Engineer. I'm currently focusing on acquiring knowledge in Frontend development and how to build scalable applications. Also, I have always enjoyed facing new big questions. So, I am growing in my career to contribute as much as possible to the world's technology community.</p>
 </div>
 
 <div align="center">
