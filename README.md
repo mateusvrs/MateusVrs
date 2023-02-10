@@ -55,7 +55,9 @@
   <details>
     <summary>I'm reading 🟡</summary>
     <ul>
-      <li>Cracking the Coding Interview - McDowell</li>
+      <li>Introduction to Algorithms - Cormen</li>
+      <li>The Clean Coder - Uncle Bob</li>
+      <li>Cracking the Coding Interview - McDowell 🟠 (Paused)</li>
     </ul>
   </details>
   
