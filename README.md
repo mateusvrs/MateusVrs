@@ -1,10 +1,10 @@
 # Hi, I'm Mateus
 
-I'm an evolving Software Engineer. I met the competitive programming area in 2020 :computer:. Since then, I have started to study algorithms and data structures, and now I'm preparing to begin at [ICPC](https://icpc.global/). Also, I met the web front end in 2021. From that, I'm studying to be a full-stack web developer, learning microservices design patterns and other concepts :gear:.
+I'm an evolving Software Engineer. I met the competitive programming area in 2020 :computer:. Since then, I have started to study algorithms and data structures, and now I'm preparing to begin at [ICPC](https://icpc.global/). Also, I was introduced to the web development area in 2021. From that, I started studying to be a full-stack web developer by learning about design patterns, big data, and other internet/web concepts :gear:.
 
 ```javascript
 mateusvrs = {
-    interests: ['Software Engineering', 'Competitive Programming', 'Web Development'],
+    interests: ['Software Engineering', 'Competitive Programming', 'Web Development', 'Big Data'],
     languages: [
         'JavaScript', 'TypeScript', 'HTML5', 'CSS3',
         'Python',
