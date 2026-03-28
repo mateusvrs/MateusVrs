@@ -4,24 +4,24 @@ Software Engineering student at [University of Brasilia](http://www.unb.br)
 
 Passionate about Web Development and Big Data
 
-Competitive Programmer studying for the [ICPC](https://icpc.global/)
-
-[![Linkedin: mateusvrs](https://img.shields.io/badge/-mateusvrs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusvrs/)](https://www.linkedin.com/in/mateusvrs/)
+[![Linkedin: mateusvrs](https://img.shields.io/badge/linkedin-mateusvrs-blue)](https://www.linkedin.com/in/mateusvrs/)
 
 ```javascript
 mateusvrs = {
-    interests: ['Software Engineering', 'Competitive Programming', 'Web Development', 'Big Data'],
+    interests: ['Software Engineering', 'Web Development', 'Big Data', 'Competitive Programming'],
     languages: [
-        'JavaScript', 'TypeScript', 'HTML', 'CSS',
-        'Python',
-        'C', 'C++'
+        'TypeScript', 'HTML', 'CSS',
+        'Java', 'Python',
+        'C++'
     ],
     technologies: [
-        'Next.js', 'React', 'Tailwind',
-        'Django', 'Django REST framework'
+        'Angular', 'Next.js', 'Tailwind',
+        'Spring Boot',
+        'Django', 'Django REST framework',
+        'Docker', 'Kubernetes'
     ],
-    database: ['SQLite', 'PostgreSQL'],
-    services: ['Heroku', 'Vercel', 'Firebase']
+    database: ['MySQL', 'PostgreSQL', 'SQLite'],
+    services: ['Azure', 'AWS', 'GCP', 'Tailscale', 'Heroku']
 }
 ```
 
