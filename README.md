@@ -27,8 +27,8 @@ mateusvrs = {
 
 ##
   
-<div align="center">
-    <a href="https://open.spotify.com/user/usfeb7knz9sp96r7uszwgkeiw?si=f5d012126c7e467a" target="_blank">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=usfeb7knz9sp96r7uszwgkeiw&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-    </a>
-</div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=usfeb7knz9sp96r7uszwgkeiw&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=usfeb7knz9sp96r7uszwgkeiw&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
